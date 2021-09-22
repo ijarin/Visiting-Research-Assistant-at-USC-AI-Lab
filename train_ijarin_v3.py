@@ -3,6 +3,7 @@
 Created on Sun Nov  4 22:15:43 2018
 
 @author: yue_wu
+@edited by:ijarin
 
 Experiment ConvLSTM2D 7Dataset/RandomResize/RandomCompress
 """
